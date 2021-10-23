@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78041608706",
+    "project_id": "freddy-s-riddles",
+    "storage_bucket": "freddy-s-riddles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78041608706:android:20d55b76c939071b92ad1b",
+        "android_client_info": {
+          "package_name": "com.example.freddysriddles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78041608706-i270ci3ad6jlmopvakuvqioa274ljt8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJz0e5BjsEmOap80yZ4oM_-BfWV50L6Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78041608706-i270ci3ad6jlmopvakuvqioa274ljt8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
